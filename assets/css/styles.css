@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+header {
+    text-align: center;
+    background-image: url('../img/hero-section.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 17rem 3.125rem;
+    text-shadow: 0.125em 0.25em 0.125em #d8cbcb;
+}
